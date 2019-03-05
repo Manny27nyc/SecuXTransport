@@ -1,0 +1,12 @@
+{
+  "parser": "babel-eslint",
+  "plugins": [
+  ],
+  "extends": ["standard"],
+  "rules": {
+    "promise/param-names": 0
+  },
+  "env": {
+    "browser": true
+  }
+}
